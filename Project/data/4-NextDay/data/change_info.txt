@@ -1,0 +1,6 @@
+Lnet/mooctest/Date net.mooctest.Date.printDate()V
+Lnet/mooctest/Day net.mooctest.Day.isValid()Z
+Lnet/mooctest/CalendarUnit net.mooctest.CalendarUnit.setCurrentPos(I)V
+Lnet/mooctest/Nextday net.mooctest.Nextday.nextDay(Lnet/mooctest/Date;)Lnet/mooctest/Date;
+Lnet/mooctest/CalendarUnit net.mooctest.CalendarUnit.getCurrentPos()I
+Lnet/mooctest/Month net.mooctest.Month.increment()Z

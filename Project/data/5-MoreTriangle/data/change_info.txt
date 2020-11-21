@@ -1,0 +1,2 @@
+Lnet/mooctest/MoreTriangle net.mooctest.MoreTriangle.area()D
+Lnet/mooctest/Edge net.mooctest.Edge.length()D

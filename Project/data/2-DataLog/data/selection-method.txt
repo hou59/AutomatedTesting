@@ -1,0 +1,13 @@
+Lnet/mooctest/DatalogTest3 net.mooctest.DatalogTest3.testFact()V
+Lnet/mooctest/DatalogTest1 net.mooctest.DatalogTest1.test()V
+Lnet/mooctest/DatalogTest1 net.mooctest.DatalogTest1.testDatalogSames()V
+Lnet/mooctest/DatalogTest net.mooctest.DatalogTest.substituteTo()V
+Lnet/mooctest/DatalogTest4 net.mooctest.DatalogTest4.testProgram()V
+Lnet/mooctest/DatalogTest5 net.mooctest.DatalogTest5.blow1()V
+Lnet/mooctest/DatalogOtherTest net.mooctest.DatalogOtherTest.testRule()V
+Lnet/mooctest/DatalogOtherTest net.mooctest.DatalogOtherTest.testSubstitution()V
+Lnet/mooctest/DatalogTest net.mooctest.DatalogTest.toFact()V
+Lnet/mooctest/DatalogTest1 net.mooctest.DatalogTest1.testDatalog2()V
+Lnet/mooctest/DatalogTest1 net.mooctest.DatalogTest1.testDatalogGets()V
+Lnet/mooctest/DatalogOtherTest net.mooctest.DatalogOtherTest.testPredicate()V
+

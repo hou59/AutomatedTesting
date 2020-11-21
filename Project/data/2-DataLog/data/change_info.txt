@@ -1,0 +1,10 @@
+Lnet/mooctest/Program net.mooctest.Program.deriveAll([Lnet/mooctest/Fact;)[Lnet/mooctest/Fact;
+Lnet/mooctest/Program net.mooctest.Program.valToArg([Lnet/mooctest/Value;)[Lnet/mooctest/Argument;
+Lnet/mooctest/Program net.mooctest.Program.canDerive(Lnet/mooctest/Fact;[Lnet/mooctest/Fact;)Z
+Lnet/mooctest/Program net.mooctest.Program.getProgram()[Lnet/mooctest/Rule;
+Lnet/mooctest/Argument net.mooctest.Argument.isVariable()Z
+Lnet/mooctest/Argument net.mooctest.Argument.value(Lnet/mooctest/Value;)Lnet/mooctest/Argument;
+Lnet/mooctest/Argument net.mooctest.Argument.isValue()Z
+Lnet/mooctest/Argument net.mooctest.Argument.variable(Lnet/mooctest/Variable;)Lnet/mooctest/Argument;
+Lnet/mooctest/Predicate net.mooctest.Predicate.toString()Ljava/lang/String;
+Lnet/mooctest/Fact net.mooctest.Fact.getValues()[Lnet/mooctest/Value;

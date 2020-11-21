@@ -1,0 +1,1 @@
+Lnet/mooctest/ALU net.mooctest.ALU.leftShift(Ljava/lang/String;I)Ljava/lang/String;

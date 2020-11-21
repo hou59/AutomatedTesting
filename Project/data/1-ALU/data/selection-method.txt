@@ -1,0 +1,14 @@
+Lnet/mooctest/ALUOtherTest2 net.mooctest.ALUOtherTest2.test21()V
+Lnet/mooctest/ALUFloatTest net.mooctest.ALUFloatTest.test23()V
+Lnet/mooctest/ALUOtherTest2 net.mooctest.ALUOtherTest2.test56()V
+Lnet/mooctest/ALUFloatTest net.mooctest.ALUFloatTest.test59()V
+Lnet/mooctest/ALUFloatTest net.mooctest.ALUFloatTest.test58()V
+Lnet/mooctest/ALUOtherTest2 net.mooctest.ALUOtherTest2.test49()V
+Lnet/mooctest/ALUFloatTest net.mooctest.ALUFloatTest.test60()V
+Lnet/mooctest/ALUOtherTest2 net.mooctest.ALUOtherTest2.test55()V
+Lnet/mooctest/ALUFloatTest net.mooctest.ALUFloatTest.test07()V
+Lnet/mooctest/ALUFloatTest net.mooctest.ALUFloatTest.test57()V
+Lnet/mooctest/ALUOtherTest2 net.mooctest.ALUOtherTest2.test16()V
+Lnet/mooctest/ALUOtherTest2 net.mooctest.ALUOtherTest2.test15()V
+Lnet/mooctest/ALUFloatTest net.mooctest.ALUFloatTest.test24()V
+

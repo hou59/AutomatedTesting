@@ -1,0 +1,2 @@
+Lnet/mooctest/CMD net.mooctest.CMD.addBooleanOption(CLjava/lang/String;)Lnet/mooctest/CMD$Option;
+Lnet/mooctest/CMD net.mooctest.CMD.addLongOption(Ljava/lang/String;)Lnet/mooctest/CMD$Option;
