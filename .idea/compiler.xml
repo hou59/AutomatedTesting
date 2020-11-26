@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="WALA" />
+        <module name="Project" />
+        <module name="CMD" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="WALA" target="1.8" />
+      <module name="CMD" target="1.8" />
+      <module name="Project" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
